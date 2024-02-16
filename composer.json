@@ -1,5 +1,5 @@
 {
-    "name": "ankitverma/whatsapp-cloud-api",
+    "name": "ankitvommune/whatsapp-cloud-api",
     "description": "This package helps developers to access WhatsApp Cloud API services in their PHP projects.",
     "type": "library",
     "license": "MIT",
