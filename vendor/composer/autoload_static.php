@@ -9,12 +9,12 @@ class ComposerStaticInita0bb12240c491d888f90920150f2a154
     public static $prefixLengthsPsr4 = array (
         'A' => 
         array (
-            'Ankitverma\\WhatsappCloudApi\\' => 28,
+            'AnkitVerma\\WhatsAppCloudApi\\' => 28,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Ankitverma\\WhatsappCloudApi\\' => 
+        'AnkitVerma\\WhatsAppCloudApi\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

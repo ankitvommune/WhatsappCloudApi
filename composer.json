@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ankitverma\\WhatsappCloudApi\\": "src/"
+            "AnkitVerma\\WhatsAppCloudApi\\": "src/"
         }
     },
     "authors": [
