@@ -1,17 +1,17 @@
 {
-    "name": "ankitvommune/whatsapp-cloud-api",
+    "name": "ankitvommune/whatsappcloudapi",
     "description": "This package helps developers to access WhatsApp Cloud API services in their PHP projects.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "AnkitVerma\\WhatsAppCloudApi\\": "src/"
+            "Ankitvommune\\Whatsappcloudapi\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Ankit Verma",
-            "email": "ankitv4087@gmail.com"
+            "name": "ankitvommune",
+            "email": "ankit.verma@ommune.in"
         }
     ],
     "require": {}

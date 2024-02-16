@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'AnkitVerma\\WhatsAppCloudApi\\' => array($baseDir . '/src'),
+    'Ankitvommune\\Whatsappcloudapi\\' => array($baseDir . '/src'),
 );

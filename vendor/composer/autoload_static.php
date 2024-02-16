@@ -4,17 +4,17 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInita0bb12240c491d888f90920150f2a154
+class ComposerStaticInita3a250ba32e3ef3f3ad9192663eceb56
 {
     public static $prefixLengthsPsr4 = array (
         'A' => 
         array (
-            'AnkitVerma\\WhatsAppCloudApi\\' => 28,
+            'Ankitvommune\\Whatsappcloudapi\\' => 30,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'AnkitVerma\\WhatsAppCloudApi\\' => 
+        'Ankitvommune\\Whatsappcloudapi\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
@@ -27,9 +27,9 @@ class ComposerStaticInita0bb12240c491d888f90920150f2a154
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInita0bb12240c491d888f90920150f2a154::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInita0bb12240c491d888f90920150f2a154::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInita0bb12240c491d888f90920150f2a154::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInita3a250ba32e3ef3f3ad9192663eceb56::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInita3a250ba32e3ef3f3ad9192663eceb56::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInita3a250ba32e3ef3f3ad9192663eceb56::$classMap;
 
         }, null, ClassLoader::class);
     }
