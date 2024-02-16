@@ -14,5 +14,7 @@
             "email": "ankit.verma@ommune.in"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
